@@ -1,2 +1,2 @@
-# GitTset
+# GitTest
 idea git test
